@@ -1,0 +1,22 @@
+# Microsoft Developer Studio Generated Dependency File, included by tb.mak
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	
+
+.\tb.cpp : \
+	".\StdAfx.h"\
+	".\tb.h"\
+	".\tbDlg.h"\
+	
+
+.\tb.rc : \
+	".\res\tb.ico"\
+	".\res\tb.rc2"\
+	
+
+.\tbDlg.cpp : \
+	".\StdAfx.h"\
+	".\tb.h"\
+	".\tbDlg.h"\
+	
